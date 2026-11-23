@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive Hybrid CPU Scheduling Framework",
+  "description": "Intelligent Scheduling. Efficient Execution. Fair Process Management — Operating Systems scheduling simulator with FCFS, SJF, Round Robin, Priority, and Adaptive Hybrid MLFQ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
